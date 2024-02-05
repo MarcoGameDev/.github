@@ -10,7 +10,7 @@ I am Marco Túlio Candeo (@marcotuliocnd), a passionate game developer in the ma
 
 ### Unity Game Projects
 
-#### 1. [Square Platform 2D](https://github.com/MarcoGameDev/square-platform-2d)
+#### [Square Platform 2D](https://github.com/MarcoGameDev/square-platform-2d)
    - Description: First project using unity. Simple Platform 2D Game
    - Status: Ongoing
 
